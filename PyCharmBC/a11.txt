@@ -1,0 +1,8 @@
+
+('Bob', 'salary $100,000', 'job Mgr')
+
+('Bob', 'salary $100,000', 'job Mgr')
+
+('Kim', 'salary $100,000', 'job Dev')
+
+('Sam', 'salary $100,000', 'job Dev')
